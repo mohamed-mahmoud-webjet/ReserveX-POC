@@ -1,0 +1,5 @@
+/TestReserveX/.vs
+.gitattributes
+/TestReserveX/TestReserveX/obj
+/TestReserveX/TestReserveX/bin
+TestReserveX/TestReserveX.v3.ncrunchsolution.user
