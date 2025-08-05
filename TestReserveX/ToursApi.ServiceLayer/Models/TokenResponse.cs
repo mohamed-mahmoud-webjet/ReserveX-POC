@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace TestReserveX.Models
+namespace ToursApi.ServiceLayer.Models
 {
     public class TokenResponse
     {

@@ -1,6 +1,6 @@
-﻿namespace TestReserveX.Models
+﻿namespace ToursApi.ServiceLayer.Models
 {
-    public class SearchResultDto
+    public class AutoCompleteDto
     {
         public string Id { get; set; }
         public string Value { get; set; }

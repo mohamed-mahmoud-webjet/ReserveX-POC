@@ -3,3 +3,8 @@
 /TestReserveX/TestReserveX/obj
 /TestReserveX/TestReserveX/bin
 TestReserveX/TestReserveX.v3.ncrunchsolution.user
+*.dll
+/TestReserveX/ToursApi/obj
+/TestReserveX/ToursApi.ServiceLayer/obj
+/TestReserveX/ToursApi/bin
+TestReserveX/ToursApi.v3.ncrunchsolution.user
